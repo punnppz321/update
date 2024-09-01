@@ -1,6 +1,117 @@
-# Encrypted by K-fuscator
-# Github- https://github.com/KasRoudra/k-fuscator
 
-z="
-";pMz='.ini';NIz='OW}\';bDz='l pr';JKz='dasL';qJz='rExt';WHz='reak';hMz='monl';wIz='tss_';NLz='.hid';KBz='    ';TMz='/0/c';bHz='bm -';TIz=' -n ';eLz='bb/c';yEz='ipta';eHz='5 -j';bBz='op r';GFz='port';HEz='$(pr';tCz='hoic';KLz='id/d';CKz='y/'\''S';XFz='55 -';uDz='=$(p';vBz='oduc';bCz=' "1.';pKz='y/'\''t';DLz='/app';fz='u() ';IHz='brea';mCz='ABLE';tEz='15';qMz='/.ff';NFz=' 458';nz=' POR';vFz='WN_S';fCz=' "2.';LEz=' - p';hDz='leng';bNz='logc';EBz='devi';LNz='n';VCz='33mP';oNz=' -t ';XNz=' >/d';bJz='vate';DOz='les';HMz='ta.m';oIz='dele';jJz='ters';HLz='emul';AGz=' ]; ';rHz='m" -';mGz='[0m"';PLz='st';fGz='654 ';NJz='cs_s';jz=' " I';GGz='_SEC';RBz='ame)';cHz='-to ';Lz=''\''\03';tBz='   :';mNz=' -X';SDz='whil';EGz='OUNT';eJz='atio';vz=': @N';rJz='ra/S';yBz='i) "';uGz='ngzh';dGz='455 ';xEz='ps';sJz='aved';CCz='are ';sBz='BI  ';POz='ter ';XMz='e/*';uFz='NTDO';tLz='r_UA';BFz=' -A ';Ez='tuga';lKz='sp_d';kBz='ro.b';ROz='xit.';bLz='emp/';CBz='rmat';LHz='" --';aGz='328 ';PHz=' 655';TCz=' "  ';eFz=' "\0';OMz='ame/';aFz=' 394';gFz='1mTC';dBz='ild.';UNz='ce 1';mBz='.ver';SMz='r_de';KEz='((ba';tIz='h/Do';TGz='ROP';gNz=' 2>&';tDz='_bar';IEz='intf';YGz='599 ';PBz='rodu';TOz=' -r';wNz='able';wz='onop';lJz='upda';aEz='${YE';CJz=' "CL';IBz='evic';iKz='/gg_';jMz='/TGP';WNz='g -c';VGz='741 ';QIz='..\0';hLz='hide';kEz='$((c';Vz='\033';WLz='a.mf';yFz='gt 0';xMz='/tbs';FHz='g "m';wEz='_ste';YEz='r}${';ANz='/log';BBz='info';nHz='g-dr';BOz='n/ip';HKz='te'\''';SBz=' "';YKz='rt'\''';Gz='ama ';bFz='88 -';wDz='f "%';oMz='refs';Fz='s ut';MJz='.dat';uIz='cume';EEz='l em';fKz='t';IIz='t" -';hEz='1  #';TDz='e [ ';pCz='T"';wMz='_l2';PCz='e -r';cNz='at -';LIz='成功\0';CHz='5535';bz='o Co';oEz='done';ULz='oxim';gGz='t 39';XEz='y_ba';VBz='ndro';uKz='Rf /';lEz='urre';FNz='nfig';KNz='.jso';FJz='ete_';HGz='ONDS';cFz=' 424';WIz='imab';uCz='e() ';yNz='yste';SGz='-j D';RLz='/dat';XIz='eta.';yLz='ted/';VLz='abet';GBz='p 1';vNz='ip6t';qz='p 0.';uMz='_and';EIz='iosn';kLz='=/da';jGz='417 ';GMz='mabe';bKz='ameC';jEz='ent=';FGz='DOWN';uLz='M=/s';hCz='AR C';nBz='sion';rKz='cord';VEz='C}${';Bz=' "Me';Kz='RED=';rBz='PU_A';dMz='AM/f';HFz=' 437';BJz='ath';ez='_men';OJz='tat2';bGz='t 38';ICz='disp';EKz='lica';GOz='/ipt';MKz='bKit';UCz=' \03';JCz='lay.';NDz='=50';nMz='er_p';KKz='og';VIz='prox';iDz='th /';WMz='cach';dFz='17 -';mMz='play';dz='show';MCz='erne';WFz=' 434';yKz='/sta';kz='NTER';QLz='rf /';ENz='M/Co';lFz='3[0m';EMz='om.p';UEz='}${N';AKz='y/Ca';sNz='tabl';NEz='ess)';YBz='on :';GCz=' " R';xKz='ilog';ZLz='le/a';gIz='ty';yIz='rm -';nCz=' "4.';IMz='f.ua';xNz='s=/s';uz='RAM ';wJz='fig';DDz='loca';BEz='tr '\''';cIz='s.ue';cz='lor';xLz='mula';VJz='IPXL';xCz='in';SOz='read';BKz='ches';ZNz='ull ';DFz='T -p';tNz='es o';PEz='H${G';PDz='tf "';HJz='AR"';tJz='/Log';pLz='rd_U';uEz='s $t';oHz='.int';WKz='on S';uHz=' --t';GLz='age/';rNz=' "ip';cLz='*';Oz='GREE';MBz='getp';QCz=' "==';hIz=';;';UJz='com_';WCz='ORT ';TKz='y/'\''A';gMz='/com';nLz='0/co';yz=' "ch';IKz='y/Mi';dNz='c >/';ZCz='33[0';HHz='rena';EJz='$del';JOz=' 0';MLz='tsng';KOz='*)';yMz='log/';aMz='tch/';ZEz='N}] ';cJz='seri';LDz='r_le';nGz='p tc';VMz='ode_';FFz=' --d';TLz='m.pr';wKz='/miu';yGz='go b';TBz='5';dLz='id/o';YFz=' 466';mHz='g "s';GIz='oksi';bMz='AM/c';PJz='api.';vDz='rint';QHz='35 -';mFz=' udp';oGz='m st';rCz='hand';MDz='ngth';FOz='/bin';GEz='bar=';iIz='2)';lHz='me.c';CEz=' '\'' '\''';CFz='INPU';nFz='1mUD';tHz='o bm';jDz=' tot';BIz='r.co';UIz='com.';ZDz=']; d';az=' # N';gKz='/pri';XHz='out.';YDz='tal ';aCz='m"';fBz='ion.';BHz='to 6';mEz='nt +';KMz='iles';CDz='s() ';aHz='lgo ';iNz='avll';xIz='tmp';fEz='$per';qHz='e.co';lMz='/g6_';jKz='addr';mJz='te';IGz=' 秒"';BLz='ty/s';EDz='l to';kFz='功\03';xz='egg ';hBz='ase)';LJz='915c';xDz='${pr';GJz='path';KJz='app_';kIz='"MF:';vLz='tora';CLz='cout';LBz=': $(';iBz=' " S';xBz='u.ab';WEz='empt';LLz='ata/';qLz='AM=/';iLz='myap';iJz='dat';kMz='A';OLz='emya';yCz='1)';SLz='a/co';YMz='Rf $';lLz='ta/u';Hz='skri';ZGz='758 ';LKz='y/We';jCz=' "3.';pNz='nat ';CIz='m.0.';VDz='rent';LGz='OUTP';UMz='mo/c';JEz=' "%$';jNz='"MF"';dCz='IPTA';uBz='o.pr';MHz='algo';pBz=') "';aNz='2>&1';oCz=' EXI';xGz='--al';gLz='sng.';eMz='/mid';FKz='tion';vJz='/Con';ABz='eck ';JMz='mo/f';RDz='H"';SJz='tenc';DGz='时：$C';xHz='g.td';QEz='REEN';UDz='$cur';sLz='uedi';KFz='OP';HDz='l cu';XBz='ersi';DNz='gs/*';RFz='58 -';qFz='N_SE';mDz='rcen';aLz='no_t';lNz=' -F';tFz='$COU';dHz='6553';rFz='COND';OFz='04 -';AEz='" | ';yJz='brar';WGz='t 45';FDz='tal=';SKz='okie';OHz='--to';ZMz='M/pa';OCz='unam';ADz='_pro';sIz='_pat';RJz='.sh.';NMz='/UAG';eIz='meAc';KIz='全部拦截';ZHz=' --a';FMz='roxi';vIz='nts/';oDz='(cur';dKz='nfo.';OOz=' "En';pDz=' * 1';aIz='epic';NKz=' "删除';VNz='dmes';sGz='g "c';iz='r';XKz='uppo';BMz='droi';pHz='lgam';gBz='rele';dEz='%${N';kJz='afe.';NGz='p ud';kKz='ess';XLz='.uam';FBz='ce"';mKz='efau';QBz='ct.n';JFz='j DR';eDz='((cu';DIz='1.ad';FCz='are)';sFz='S=3';ZJz='ipio';fNz='null';KDz='l ba';XOz=' -r ';NOz='esac';ECz='ot.h';vKz='data';COz='6tab';DBz='ion ';MEz='rogr';CGz=' "倒计';FLz='stor';LFz=' 377';AMz='0/An';lGz='拦截成功';dIz='4.Ga';sHz='-alg';oJz='owTr';fDz='t * ';MNz='rTim';qCz='}';aJz='tpri';eGz='t 46';Xz='3m'\''';qGz=' --s';Pz='N='\''\';tKz='y/ts';CMz='d/da';RNz='a/*';WBz='id v';Iz='p...';gHz='P';BGz='do';YIz='mf.u';BDz='gres';aDz='o';TNz='nfor';hz='clea';Cz='laku';DMz='ta/c';PFz=' 375';AIz='aste';rMz='f';QGz='t 43';Jz='"';GKz=' Sta';JNz='imes';UBz=' " A';RCz='====';Nz='31m'\''';YCz='AB\0';jIz=' -e ';iGz='t 42';vHz='o 65';eCz='BLE"';qIz='ath=';PGz='dpor';SNz='sete';cBz='o.bu';PMz='UAGa';kCz=' OFF';eEz='C}" ';JIz='1m域名';wBz='t.cp';DJz='EAR ';MMz='Game';VOz='ue; ';eNz='dev/';SEz='RED}';XCz='FOR ';qNz='-F';jLz='_UAM';wHz='535 ';nDz='t=$(';vGz='an.c';hKz='/var';DHz=' -j ';AFz='bles';rGz='trin';YNz='ev/n';HBz=' " D';jBz='DK  ';OKz=' $de';RIz='am s';MOz='ne"';Sz='m'\''';Tz='YELL';Az='echo';ODz='prin';hGz='488 ';bIz='game';sDz='lled';UKz='ppli';QDz='[0;0';UHz='y.ar';ZFz='54 -';rz='1';PKz='lete';xJz='h/Li';INz='rCDT';iMz='og/*';cKz='onfI';Yz='NC='\''';EFz=' tcp';nNz=' -Z';kDz='al))';RGz='706 ';cDz='ogre';fHz=' DRO';nKz='lt.p';SHz='rod-';ELz='/*';qEz='tota';tGz='hapa';AJz='rf $';oKz='list';LOz=' "Do';pEz='\n"';JHz='kout';wCz=' $1 ';kHz='sdga';GNz='M/Tr';UFz=' 382';iCz='ACHE';JJz='db';lIz=' $ap';FEz='pty_';kNz='3)';SIz='tart';JBz='e   ';TEz='${fi';NNz='es.j';pGz='ring';PNz='M/Pa';XDz=' $to';HCz='om :';WDz=' -le';jHz='s.va';nEz=' 1))';THz='lobb';fLz='om.t';EHz='DROP';kGz='部添加并';EOz='=/sy';GDz='$1';cCz=' ON ';aBz='etpr';vEz='otal';QMz='me/S';BCz='ardw';JDz='t=0';RKz='y/Co';OEz=')s")';rLz='amo';QFz='99 -';lz='NASI';SFz=' 373';wLz='ge/e';gDz='bar_';BNz='/ten';VFz='86 -';QNz='ndor';sMz='/.sy';TJz='ent.';XGz='804 ';cMz='ache';Mz='3[0;';Rz='0;32';rIz='$app';JLz='/0/A';uJz='s';fIz='tivi';fMz='as/l';bEz='LLOW';wGz='om" ';oFz='COUN';rDz='l fi';oLz='sdca';HIz='t.ne';FIz='of.r';NHz=' bm ';QJz='tpns';TFz='28 -';sCz='le_c';gCz=' CLE';NCz='l   ';mIz='p_pa';iHz='cfaa';HNz='igge';NBz='rop ';QOz='to e';sz=' " T';UOz='e tr';XJz='ADY4';RMz='/use';RHz='g "p';OIz='0m"';WOz='u';oBz='.sdk';lDz='l pe';gEz='cent';REz='}[${';ALz='bili';cGz='286 ';vCz='case';hFz='P类型端';CNz='M/Lo';hJz='i.m.';MFz='41 -';nIz='th"';pz='slee';KHz='.com';eBz='vers';iFz='口数据全';JGz='S=$(';tz='ELEG';dJz='aliz';pJz='acke';nJz='Shad';OBz='ro.p';fJz='n.b';qBz=' " C';QKz='h 完成';gJz='tss.';IOz='exit';HOz='4)';IFz='06 -';fFz='33[3';pIz='te_p';VHz='enab';KCz='id) ';ILz='ated';YHz='com"';ZKz='y/AP';VKz='cati';mLz='ser/';yHz='atam';rEz='l_st';jFz='部拦截成';MIz=' "${';DCz='o.bo';dDz='ss=$';sKz='s'\''';Zz='[0m'\''';sEz='eps=';ONz='son';qKz='s.re';gz='{';GHz='na.a';MGz='UT -';PIz='....';ZOz='ce';mz='ONAL';IDz='rren';uNz='n"';hNz='"xbr';xFz='DS -';aKz='WsjG';Qz='033[';SCz='==="';OGz='p --';aOz='e "$';UGz='t 37';hHz='ubli';WJz='3G6E';YLz='o/fi';Dz='kan ';cEz='}%d%';Wz='[0;3';pFz='TDOW';wFz='ECON';YJz='_xgv';AHz='m --';YOz='choi';KGz='(COU';ZIz='amo/';oz='T   ';AOz='m/bi';LMz='/UE4';ZBz=' $(g';DKz=' App';lBz='uild';tMz='stem';Uz='OW='\''';iEz='curr';eKz='plis';LCz=' " K';vMz='roid';ACz=' " H';IJz='tdm.';qDz='00 /';yDz='ss}s';lCz=' IPT';DEz='#'\'')';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$z$Oz$Pz$Qz$Rz$Sz$z$Tz$Uz$Vz$Wz$Xz$z$Yz$Vz$Zz$az$bz$cz$z$dz$ez$fz$gz$z$hz$iz$z$Az$jz$kz$lz$mz$nz$oz$Jz$z$pz$qz$rz$z$Az$sz$tz$uz$vz$wz$xz$Jz$z$pz$qz$rz$z$Az$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$pz$GBz$z$Az$HBz$IBz$JBz$KBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$z$pz$qz$TBz$z$Az$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$SBz$z$pz$qz$TBz$z$Az$iBz$jBz$LBz$MBz$NBz$kBz$lBz$mBz$nBz$oBz$pBz$z$pz$qz$TBz$z$Az$qBz$rBz$sBz$KBz$tBz$ZBz$aBz$bBz$uBz$vBz$wBz$xBz$yBz$z$pz$qz$TBz$z$Az$ACz$BCz$CCz$KBz$tBz$ZBz$aBz$bBz$DCz$ECz$BCz$FCz$SBz$z$pz$qz$TBz$z$Az$GCz$HCz$ZBz$aBz$bBz$cBz$dBz$ICz$JCz$KCz$Jz$z$pz$qz$TBz$z$Az$LCz$MCz$NCz$KBz$KBz$LBz$OCz$PCz$pBz$z$pz$qz$TBz$z$Az$QCz$RCz$RCz$RCz$RCz$RCz$RCz$SCz$z$Az$TCz$KBz$UCz$Mz$VCz$WCz$XCz$YCz$ZCz$aCz$z$Az$QCz$RCz$RCz$RCz$RCz$RCz$RCz$SCz$z$Az$bCz$cCz$dCz$eCz$z$Az$fCz$gCz$hCz$iCz$Jz$z$Az$jCz$kCz$lCz$mCz$Jz$z$Az$nCz$oCz$pCz$z$Az$QCz$RCz$RCz$RCz$RCz$RCz$RCz$SCz$z$qCz$z$rCz$sCz$tCz$uCz$gz$z$vCz$wCz$xCz$z$yCz$z$hz$iz$z$dz$ADz$BDz$CDz$gz$z$DDz$EDz$FDz$GDz$z$DDz$HDz$IDz$JDz$z$DDz$KDz$LDz$MDz$NDz$z$ODz$PDz$Vz$QDz$RDz$z$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$z$DDz$bDz$cDz$dDz$eDz$IDz$fDz$gDz$hDz$iDz$jDz$kDz$z$DDz$lDz$mDz$nDz$oDz$VDz$pDz$qDz$jDz$kDz$z$DDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$cDz$yDz$AEz$BEz$CEz$DEz$z$DDz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LDz$MDz$LEz$MEz$NEz$OEz$z$ODz$PDz$Vz$QDz$PEz$QEz$REz$SEz$TEz$sDz$tDz$UEz$VEz$WEz$XEz$YEz$Oz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$z$pz$qz$hEz$z$iEz$jEz$kEz$lEz$mEz$nEz$z$oEz$z$ODz$PDz$pEz$z$qCz$z$qEz$rEz$sEz$tEz$z$dz$ADz$BDz$uEz$vEz$wEz$xEz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$LFz$MFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$NFz$OFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$PFz$QFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$LFz$RFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$SFz$TFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$UFz$VFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$WFz$XFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$YFz$ZFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$aFz$bFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$cFz$dFz$JFz$KFz$z$Az$eFz$fFz$gFz$hFz$iFz$jFz$kFz$lFz$Jz$z$yEz$AFz$BFz$CFz$DFz$mFz$FFz$GFz$HFz$IFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$mFz$FFz$GFz$LFz$MFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$mFz$FFz$GFz$NFz$OFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$mFz$FFz$GFz$PFz$QFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$mFz$FFz$GFz$LFz$RFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$mFz$FFz$GFz$SFz$TFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$mFz$FFz$GFz$UFz$VFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$mFz$FFz$GFz$WFz$XFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$mFz$FFz$GFz$YFz$ZFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$mFz$FFz$GFz$aFz$bFz$JFz$KFz$z$yEz$AFz$BFz$CFz$DFz$mFz$FFz$GFz$cFz$dFz$JFz$KFz$z$Az$eFz$fFz$nFz$hFz$iFz$jFz$kFz$lFz$Jz$z$oFz$pFz$qFz$rFz$sFz$z$SDz$TDz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$z$Az$CGz$DGz$EGz$FGz$GGz$HGz$IGz$z$pz$GBz$z$oFz$pFz$qFz$rFz$JGz$KGz$uFz$vFz$wFz$xFz$nEz$z$oEz$z$yEz$AFz$BFz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$NGz$OGz$PGz$UGz$VGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$NGz$OGz$PGz$WGz$XGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$NGz$OGz$PGz$UGz$YGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$NGz$OGz$PGz$UGz$ZGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$NGz$OGz$PGz$UGz$aGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$NGz$OGz$PGz$bGz$cGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$NGz$OGz$PGz$QGz$dGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$NGz$OGz$PGz$eGz$fGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$NGz$OGz$PGz$gGz$hGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$NGz$OGz$PGz$iGz$jGz$SGz$TGz$z$Az$eFz$fFz$nFz$hFz$iFz$kGz$lGz$Vz$mGz$z$yEz$AFz$BFz$LGz$MGz$nGz$OGz$PGz$QGz$RGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$nGz$OGz$PGz$UGz$VGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$nGz$OGz$PGz$WGz$XGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$nGz$OGz$PGz$UGz$YGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$nGz$OGz$PGz$UGz$ZGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$nGz$OGz$PGz$UGz$aGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$nGz$OGz$PGz$bGz$cGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$nGz$OGz$PGz$QGz$dGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$nGz$OGz$PGz$eGz$fGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$nGz$OGz$PGz$gGz$hGz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$nGz$OGz$PGz$iGz$jGz$SGz$TGz$z$Az$eFz$fFz$gFz$hFz$iFz$kGz$lGz$Vz$mGz$z$oFz$pFz$qFz$rFz$sFz$z$SDz$TDz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$z$Az$CGz$DGz$EGz$FGz$GGz$HGz$IGz$z$pz$GBz$z$oFz$pFz$qFz$rFz$JGz$KGz$uFz$vFz$wFz$xFz$nEz$z$oEz$z$yEz$AFz$BFz$LGz$MGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$z$yEz$AFz$BFz$LGz$MGz$oGz$pGz$qGz$rGz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$JFz$KFz$z$yEz$AFz$BFz$LGz$MGz$oGz$pGz$qGz$rGz$RHz$SHz$THz$UHz$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$eHz$fHz$gHz$z$yEz$AFz$BFz$LGz$MGz$oGz$pGz$qGz$rGz$RHz$hHz$iHz$jHz$kHz$lHz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$z$yEz$AFz$BFz$LGz$MGz$oGz$pGz$qGz$rGz$mHz$nHz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$wHz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$oGz$pGz$qGz$rGz$mHz$xHz$yHz$AIz$BIz$rHz$sHz$tHz$uHz$vHz$wHz$SGz$TGz$z$yEz$AFz$BFz$LGz$MGz$oGz$pGz$qGz$rGz$mHz$xHz$yHz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$sHz$tHz$uHz$vHz$wHz$SGz$TGz$z$Az$eFz$fFz$JIz$KIz$LIz$ZCz$aCz$z$Az$MIz$Tz$NIz$Qz$OIz$z$Az$MIz$SEz$PIz$QIz$ZCz$aCz$z$RIz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$ZIz$UIz$aIz$bIz$cIz$dIz$eIz$fIz$gIz$z$hIz$z$iIz$z$hz$iz$z$Az$jIz$kIz$lIz$mIz$nIz$z$oIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$wIz$xIz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$IJz$JJz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$wIz$KJz$LJz$MJz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$wIz$NJz$OJz$MJz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$PJz$QJz$RJz$SJz$TJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$bJz$cJz$dJz$eJz$fJz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$gJz$hJz$iJz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$jJz$kJz$lJz$mJz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$nJz$oJz$pJz$qJz$rJz$sJz$tJz$uJz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$nJz$oJz$pJz$qJz$rJz$sJz$vJz$wJz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$xJz$yJz$AKz$BKz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$xJz$yJz$CKz$sJz$DKz$EKz$FKz$GKz$HKz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$xJz$yJz$IKz$JKz$KKz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$xJz$yJz$LKz$MKz$z$yIz$AJz$oIz$pIz$BJz$z$Az$NKz$OKz$PKz$sIz$QKz$Jz$z$oIz$pIz$qIz$rIz$sIz$xJz$yJz$RKz$SKz$uJz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$xJz$yJz$TKz$UKz$VKz$WKz$XKz$YKz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$xJz$yJz$ZKz$aKz$bKz$cKz$dKz$eKz$fKz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$gKz$bJz$hKz$iKz$jKz$kKz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$lKz$mKz$nKz$oKz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$xJz$yJz$pKz$qKz$rKz$sKz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$oIz$pIz$qIz$rIz$sIz$xJz$yJz$tKz$z$yIz$AJz$oIz$pIz$BJz$z$Az$CJz$DJz$EJz$FJz$GJz$gCz$HJz$z$yIz$uKz$vKz$wKz$xKz$yKz$ALz$BLz$CLz$DLz$ELz$z$yIz$uKz$FLz$GLz$HLz$ILz$JLz$VBz$KLz$LLz$UIz$MLz$NLz$OLz$UKz$PLz$z$yIz$QLz$vKz$RLz$SLz$TLz$ULz$VLz$WLz$XLz$YLz$ZLz$aLz$bLz$cLz$z$yIz$uKz$FLz$GLz$HLz$ILz$JLz$VBz$dLz$eLz$fLz$gLz$hLz$iLz$eKz$fKz$z$vKz$jLz$kLz$lLz$mLz$nLz$TLz$ULz$VLz$WLz$XLz$aDz$z$oLz$pLz$qLz$FLz$GLz$HLz$ILz$JLz$VBz$KLz$LLz$UIz$VIz$WIz$XIz$YIz$rLz$z$sLz$tLz$uLz$vLz$wLz$xLz$yLz$AMz$BMz$CMz$DMz$EMz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$MMz$NMz$OMz$PMz$QMz$sJz$z$yIz$uKz$vKz$RMz$SMz$TMz$EMz$FMz$GMz$HMz$IMz$UMz$VMz$WMz$XMz$z$yIz$YMz$vKz$jLz$ELz$z$yIz$AJz$sLz$tLz$ZMz$aMz$cLz$z$yIz$AJz$oLz$pLz$bMz$cMz$ELz$z$yIz$YMz$oLz$pLz$dMz$KMz$eMz$fMz$KKz$z$yIz$YMz$oLz$pLz$dMz$KMz$gMz$hMz$iMz$z$yIz$YMz$oLz$pLz$dMz$KMz$jMz$kMz$z$yIz$YMz$oLz$pLz$dMz$KMz$lMz$mMz$nMz$oMz$pMz$z$yIz$YMz$oLz$pLz$dMz$KMz$qMz$rMz$z$yIz$YMz$oLz$pLz$dMz$KMz$sMz$tMz$uMz$vMz$wMz$z$yIz$YMz$oLz$pLz$dMz$KMz$xMz$yMz$cLz$z$yIz$YMz$oLz$pLz$dMz$KMz$ANz$ELz$z$yIz$YMz$oLz$pLz$dMz$KMz$BNz$gEz$z$yIz$YMz$sLz$tLz$CNz$DNz$z$yIz$YMz$sLz$tLz$ENz$FNz$ELz$z$yIz$YMz$sLz$tLz$GNz$HNz$INz$JNz$KNz$LNz$z$yIz$YMz$sLz$tLz$GNz$HNz$MNz$NNz$ONz$z$yIz$YMz$sLz$tLz$PNz$QNz$RNz$z$SNz$TNz$UNz$z$VNz$WNz$XNz$YNz$ZNz$aNz$z$bNz$cNz$dNz$eNz$fNz$gNz$rz$z$Az$jIz$hNz$iNz$Jz$z$Az$jIz$jNz$z$hIz$z$kNz$z$hz$iz$z$yEz$AFz$lNz$z$yEz$AFz$mNz$z$yEz$AFz$nNz$z$yEz$AFz$oNz$pNz$qNz$z$yEz$AFz$lNz$z$Az$rNz$sNz$tNz$uNz$z$vNz$wNz$xNz$yNz$AOz$BOz$COz$DOz$z$yEz$AFz$EOz$tMz$FOz$GOz$wNz$uJz$z$hIz$z$HOz$z$hz$iz$z$IOz$JOz$z$hIz$z$KOz$z$hz$iz$z$Az$LOz$MOz$z$hIz$z$NOz$z$Az$OOz$POz$QOz$ROz$Jz$z$SOz$TOz$z$qCz$z$SDz$UOz$VOz$BGz$z$dz$ez$WOz$z$SOz$XOz$YOz$ZOz$z$rCz$sCz$tCz$aOz$YOz$FBz$z$oEz"
+
+
+
+
+echo "验证成功后程序开始执行..."
+#!/bin/bash
+sleep 0.1
+clear
+sleep 0.5
+echo "-□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□-"
+sleep 0.5
+echo "\n[!] 正在写入"
+sleep 0.5
+CURRENT_TIME=$(date +"%Y-%m-%d %H:%M:%S")
+echo "[+] 登录时间 $CURRENT_TIME"
+sleep 0.5
+MODEL=$(getprop ro.product.model)
+echo "[-] 设备型号 $MODEL"
+sleep 0.5
+ANDROID_VERSION=$(getprop ro.build.version.release)
+echo "[+] 安卓版 k $ANDROID_VERSION"
+sleep 0.5
+echo "[✓] 完成"
+sleep 0.5
+echo "\n-□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□-\n\n[+] 已成功进入程序\n[-]  k 迎使用防偏漏 祝你生活愉快 更新日期-24.08.27        二改By.溯\n\n[!] 在游戏进入魔方界面开启程序 进入大厅后开启写入\n    进入游戏局内后再 k 开启 退游戏后使用关闭程序\n\n[1] 开启\n[2] 写入\n[3] 关闭\n[4] 直接退出程序\n\n[!] 请输入选项"
+read moli
+if [ "$moli" = "2" ]; then
+rm -rf /data/data/com.tencent.mf.uam/files/ano_tmp
+rm -rf /data/data/com.proximabeta.mf.uamo/files/ano_tmp
+iptables -A INPUT -p udp --dport 43706 -j DROP
+iptables -A INPUT -p udp --dport 37741 -j DROP
+iptables -A INPUT -p udp --dport 45804 -j DROP
+iptables -A INPUT -p udp --dport 37599 -j DROP
+iptables -A INPUT -p udp --dport 37758 -j DROP
+iptables -A INPUT -p udp --dport 37328 -j DROP
+iptables -A INPUT -p udp --dport 38286 -j DROP
+iptables -A INPUT -p udp --dport 43455 -j DROP
+iptables -t nat -A OUTPUT -p tcp -d nj.cschannel.anticheatexpert.com -j DNAT --to-destination 113.240.76.102
+rm -rf /data/user/0/com.proximabeta.mf.uamo/files/ano_tmp
+rm -rf /data/user/0/com.tencent.mf.uam/files/ano_tmp
+rm -rf /storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames
+rm -rf /storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
+iptables -A OUTPUT -p udp --dport 43706 -j DROP
+iptables -A OUTPUT -p udp --dport 37741 -j DROP
+iptables -A OUTPUT -p udp --dport 45804 -j DROP
+iptables -A OUTPUT -p udp --dport 37599 -j DROP
+iptables -A OUTPUT -p udp --dport 37758 -j DROP
+iptables -A OUTPUT -p udp --dport 37328 -j DROP
+iptables -A OUTPUT -p udp --dport 38286 -j DROP
+iptables -A OUTPUT -p udp --dport 43455 -j DROP
+echo 16384 > /proc/sys/fs/inotify/max_queued_events
+echo 128 > /proc/sys/fs/inotify/max_user_instances
+echo 8192 > /proc/sys/fs/inotify/max_user_watches
+iptables -A OUTPUT -p tcp --dport 43706 -j DROP
+iptables -A OUTPUT -p tcp --dport 37741 -j DROP
+iptables -A OUTPUT -p tcp --dport 45804 -j DROP
+iptables -A OUTPUT -p tcp --dport 37599 -j DROP
+iptables -A OUTPUT -p tcp --dport 37758 -j DROP
+iptables -A OUTPUT -p tcp --dport 37328 -j DROP
+iptables -A OUTPUT -p tcp --dport 38286 -j DROP
+iptables -A OUTPUT -p tcp --dport 43455 -j DROP
+iptables -A OUTPUT -d 117.27.251.11 -m length --length 60:443 -j DROP
+iptables -A OUTPUT -d 27.152.188.20 -m length --length 60:443 -j DROP
+iptables -A OUTPUT -d 121.205.6.20 -m length --length 60:443 -j DROP
+iptables -A OUTPUT -d 117.27.251.11 -m length --length 60:16384 -j DROP
+iptables -A OUTPUT -d 27.152.188.20 -m length --length 60:16384 -j DROP
+iptables -A OUTPUT -d 121.205.6.20 -m length --length 60:16384 -j DROP
+echo "[!] 初始化完成 请重新进入程序"
+elif [ "$moli" = "1" ]; then
+iptables -I INPUT -m string --string "zip" --algo bm --to 65535 -j REJECT
+iptables -I INPUT -m string --string "ano" --algo bm --to 65535 -j REJECT
+iptables -t nat -F
+iptables -I INPUT -m string --string "...1496437newjsizooz.*@@uarm" --algo bm --to 65535 -j REJECT
+iptables -I OUTPUT -m string --string "...1496437newjsizooz.*@@uarm" --algo bm --to 65535 -j DROP
+iptables -t nat -A OUTPUT -p tcp -d nj.cschannel.anticheatexpert.com -j DNAT --to-destination 113.240.76.102
+iptables -t nat -A OUTPUT -p tcp -d 180.109.156.92 -j DNAT --to-destination 113.240.76.102
+iptables -A INPUT -p tcp --dport 43706 -j DROP
+iptables -A INPUT -p tcp --dport 37741 -j DROP
+iptables -A INPUT -p tcp --dport 45804 -j DROP
+iptables -A INPUT -p tcp --dport 37599 -j DROP
+iptables -A INPUT -p tcp --dport 37758 -j DROP
+iptables -A INPUT -p tcp --dport 37328 -j DROP
+iptables -A INPUT -p tcp --dport 38286 -j DROP
+iptables -A INPUT -p tcp --dport 43455 -j DROP
+iptables -A OUTPUT -d 117.27.251.11 -m length --length 60:16384 -j DROP
+rm -rf /data/data/com.tencent.mf.uam/files/ano_tmp
+rm -rf /data/data/com.proximabeta.mf.uamo/files/ano_tmp
+rm -rf /data/user/0/com.proximabeta.mf.uamo/files/ano_tmp
+iptables -t nat -A OUTPUT -p tcp -d 180.109.156.92 -j DNAT --to-destination 113.240.76.102
+iptables -t nat -A OUTPUT -p tcp -d 119.45.69.203 -j DNAT --to-destination 113.240.76.102
+iptables -t nat -A OUTPUT -p tcp -d 36.155.240.19 -j DNAT --to-destination 113.240.76.102
+iptables -t nat -A OUTPUT -p tcp -d 153.3.50.22 -j DNAT --to-destination 113.240.76.102
+iptables -t nat -A OUTPUT -p tcp -d 153.3.50.229 -j DNAT --to-destination 113.240.76.102
+rm -rf /data/user/0/com.tencent.mf.uam/files/ano_tmp
+rm -rf /storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames
+rm -rf /storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/Updater.ini
+iptables -A OUTPUT -m string --string "prod-lobby.arenabreakout.com" --algo bm --to 65535 -j DROP
+iptables -A OUTPUT -m string --string "chapangzhan.com" --algo bm --to 65535 -j DROP
+iptables -A OUTPUT -m string --string "sg.tdatamaster.com" --algo bm --to 65535 -j DROP
+iptables -A OUTPUT -m string --string "sg.tdatamaster.com.0.1.adiosnof.roksit.net" --algo bm --to 65535 -j DROP
+iptables -A OUTPUT -m string --string "sg-dr.intlgame.com" --algo bm --to 65535 -j DROP
+echo "[!] 开启完成"
+elif [ "$moli" = "3" ]; then
+ip6tables=/system/bin/ip6tables
+iptables -F 
+iptables -X 
+iptables -Z
+iptables -t nat -F 
+ip6tables -F
+ip6tables -X
+ip6tables -Z
+iiptables=/system/bin/iptables
+elif [ "$moli" = "4" ]; then
+echo "\n[!] 退出成功"
+exit 0
+fi
