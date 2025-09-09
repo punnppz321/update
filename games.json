@@ -1,0 +1,10 @@
+{
+    "gamesList": [
+      {
+        "title": "PUBG INDIA",
+        "package": "com.pubg.imobile",
+        "version": "3.6.0",
+        "status": "Safe"
+      }
+  ]
+}
